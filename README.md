@@ -7,6 +7,7 @@
 ## Instructions
 
 You will assign a local variable named `greeting` that is equal to `"Hello World"`.
+Phrase="Hello World"
 
 You should first make sure the test suite is running correctly by running `learn`.
 
@@ -34,3 +35,8 @@ To solve this test failure, create a local variable `greeting` in the `variable.
 * [Introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-variable-assignment' title='Variable Assignment'>Variable Assignment</a> on Learn.co and start learning to code for free.</p>
+
+Phrase="Hello World."
+greeting= "puts phrase"
+
+
